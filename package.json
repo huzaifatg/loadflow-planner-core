@@ -1,0 +1,7 @@
+{
+  "name": "loadflow-planner-core",
+  "version": "0.1.0",
+  "description": "Open-source logistics planning utilities",
+  "main": "src/index.ts",
+  "license": "MIT"
+}
